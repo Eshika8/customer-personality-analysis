@@ -67,5 +67,5 @@ This project was completed as part of the Elevate Labs Data Analyst Internship. 
 ---
 
 ## Project Type
-**EDA | Data Cleaning | Preprocessing | Internship Task**
+**EDA | Data Cleaning | Preprocessing**
 
